@@ -1,5 +1,6 @@
 # Dementia-Inequalities-PNAS
 *** INTRODUCTION ***
+
 This data repository includes all Stata and MATLAB program files used in the project "Trends in Inequalities in the Prevalence of Dementia in the U.S." by Peter Hudomiet, Michael D. Hurd, and Susann Rohwedder. The paper is currently (10/3/2022) conditionally accepted in the Proceedings of the National Academy of Sciences of the United States of America (PNAS). 
 
 The objective of the project and the details of the statistical methods are discussed in the published article and its supplementary appendix.
