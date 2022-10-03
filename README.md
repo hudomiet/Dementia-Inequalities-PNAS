@@ -44,9 +44,9 @@ To run the programs, one needs to get access to the following data files:
 *PostEstimation.zip includes seven Stata do files:
 1) Step1_MCMC-Load.do: Loads the data created by the MCMC model and saves Stata versions.
 2) Step2_SimData.do: Loads the 901 simulated cognition values and saves them in 901 separate Stata files. These datasets are used to estimate corrected standard errors that take into account the uncertainties from the MCMC model.
-3-7) Creates the two figures and tables of the main paper. The file names correspond to the tables and figures.
+3) The rest of the files create the two figures and tables of the main paper. The file names correspond to the tables and figures.
 
 *SupplementaryFiles.zip: Ten files that create most of the tables and figures in the supplementary appendix. The MCMC model creates the rest.
 1) Master_SyntheticData_Release1.m: A master file used to estimate the MCMC model on synthetic data with known parameter values.
 2) DataCreate_Release1.m: Creates a synthetic data file with known parameter values.
-3-10) Stata do files creating the supplementary tables and figures. The file names correspond to the tables and figures.
+3) The rest of the Stata do files create the supplementary tables and figures. The file names correspond to the tables and figures.
